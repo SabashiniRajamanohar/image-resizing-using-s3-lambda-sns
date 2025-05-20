@@ -33,9 +33,13 @@ This project focuses on building an automated system for image processing and ma
 
 ![image](https://github.com/user-attachments/assets/661c5aec-0e29-4445-b929-16209f627c71)
 
+
 3. Create the destination bucket using the same steps and name it with a unique name.
+   
 
 ![image](https://github.com/user-attachments/assets/021fe6ad-1bee-4334-8402-2c9d9725a684)
+
+
 
 4. As you can see above , I created two buckets one is Source bucket and another one is Destination bucket.
 
