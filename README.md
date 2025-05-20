@@ -16,6 +16,9 @@ This project focuses on building an automated system for image processing and ma
 
 
 
+
+
+
 ## Steps :
 ### Step 1 :
 ### Creating Source and Designation s3 Buckets :
@@ -23,10 +26,13 @@ This project focuses on building an automated system for image processing and ma
 1. Navigate to the S3 Console.
 2. Follow the Outlined Steps below.
 
-
+<img width="1433" alt="Screenshot 2025-05-20 at 13 49 05" src="https://github.com/user-attachments/assets/c2cb33c6-6321-46d1-a6b3-864204e13a33" />
+![image](https://github.com/user-attachments/assets/9bc9d759-71e0-40b5-adc6-a2012b827290)
+![image](https://github.com/user-attachments/assets/661c5aec-0e29-4445-b929-16209f627c71)
 
 3. Create the destination bucket using the same steps and name it with a unique name.
 
+![image](https://github.com/user-attachments/assets/021fe6ad-1bee-4334-8402-2c9d9725a684)
 
 4. As you can see above , I created two buckets one is Source bucket and another one is Destination bucket.
 
