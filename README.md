@@ -30,6 +30,7 @@ This project focuses on building an automated system for image processing and ma
 
 ![image](https://github.com/user-attachments/assets/9bc9d759-71e0-40b5-adc6-a2012b827290)
 
+
 ![image](https://github.com/user-attachments/assets/661c5aec-0e29-4445-b929-16209f627c71)
 
 3. Create the destination bucket using the same steps and name it with a unique name.
