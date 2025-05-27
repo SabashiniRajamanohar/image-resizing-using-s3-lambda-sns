@@ -123,13 +123,9 @@ This project focuses on building an automated system for image processing and ma
 
 1. Navigate to the S3 Console.
 2. Upload Some images in  Source Bucket.
-
 <img width="1404" alt="Screenshot 2025-05-20 at 15 09 19" src="https://github.com/user-attachments/assets/0f2dcb31-c424-4379-929b-d9f559d76033" />
-
 <img width="1404" alt="Screenshot 2025-05-20 at 15 10 44" src="https://github.com/user-attachments/assets/cdb440a1-c291-4dc5-89e6-d5fefc83dfdc" />
-
 <img width="1384" alt="Screenshot 2025-05-27 at 19 09 20" src="https://github.com/user-attachments/assets/612a049c-3af1-4e2b-b52e-faa1ff8c52af" />
-
 
 ### It Successfully resized the Image.
 
